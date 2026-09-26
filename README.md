@@ -23,6 +23,8 @@
 
 ## 🚀 Side Projects
 
+## 🚀 Side Projects
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -34,6 +36,13 @@
       <h3>🎫 eventrip</h3>
       <p>기획부터 개발까지 단독 진행해 App Store에 출시한 개인 프로젝트. 유저 피드백을 반영하며 꾸준히 업데이트 중입니다.</p>
       <code>Swift · SwiftUI · Firebase</code>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>📈 GADmanager</h3>
+      <p>구글 광고 데이터를 자동으로 수집·분석해 정확한 캠페인 대응이 가능하도록 만든 데이터 시각화 시스템. 엑셀로 수기 확인하던 광고 성과 데이터를 웹 대시보드로 전환해, 실시간으로 지표를 파악하고 의사결정 속도를 높였습니다.</p>
+      <code>TypeScript · Serverless · MariaDB</code>
     </td>
   </tr>
 </table>
