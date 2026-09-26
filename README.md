@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-banner-url" width="100%" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A5F&height=220&section=header&text=Park%20Minjun&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Marketer%20%C3%97%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
   # 안녕하세요, 박민준입니다 👋
   ### 문제를 찾아내고 데이터를 분석해, 코드로 직접 풀어내는 개발자를 지향합니다.
