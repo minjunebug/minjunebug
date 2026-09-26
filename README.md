@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧳 노잣돈</h3>
+      <h3>🧳 다정산</h3>
       <p>여행 경비를 정산하는 총무 앱. 예산 페이스 경고, 정산 후 카카오페이/토스 송금 딥링크, 다이나믹 아일랜드 실시간 지출 표시를 지원합니다.</p>
       <code>Swift · SwiftUI · Firebase</code>
     </td>
