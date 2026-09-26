@@ -51,9 +51,9 @@
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 Portfolio
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minjunebug&show_icons=true&theme=tokyonight&hide_border=true" />
+  - Portfolio Link: www.parkminjun.com
 </div>
 
 <br>
