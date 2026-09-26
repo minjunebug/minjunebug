@@ -51,10 +51,9 @@
 
 <br>
 
-## 📊 Portfolio
-<div align="center">
+## 📊 Portfoli
   - Portfolio Link: www.parkminjun.com
-</div>
+
 
 <br>
 
