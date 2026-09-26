@@ -62,4 +62,4 @@
 <br>
 
 ## 📮 Contact
-- Email: your@email.com
+- Email: jun93841@gmail.com
