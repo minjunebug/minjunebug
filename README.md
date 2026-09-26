@@ -2,10 +2,9 @@
   <img src="https://your-banner-url" width="100%" alt="banner"/>
 
   # 안녕하세요, 박민준입니다 👋
-  ### 마케터의 시선으로 문제를 정의하고, 코드로 직접 풀어내는 개발자를 지향합니다.
-
-  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+  ### 문제를 찾아내고 데이터를 분석해, 코드로 직접 풀어내는 개발자를 지향합니다.
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
