@@ -42,7 +42,7 @@
     <td colspan="2" valign="top">
       <h3>📈 GADmanager</h3>
       <p>구글 광고 데이터를 자동으로 수집·분석해 정확한 캠페인 대응이 가능하도록 만든 데이터 시각화 시스템. 엑셀로 수기 확인하던 광고 성과 데이터를 웹 대시보드로 전환해, 실시간으로 지표를 파악하고 의사결정 속도를 높였습니다.</p>
-      <code>TypeScript · Serverless · MariaDB</code>
+      <code>JavaScript · MongoDB</code>
     </td>
   </tr>
 </table>
