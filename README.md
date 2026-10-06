@@ -30,7 +30,7 @@
       <code>Swift · SwiftUI · Firebase</code>
     </td>
     <td width="50%" valign="top">
-      <h3>🎫 eventrip</h3>
+      <h3>🎫 PomoBox</h3>
       <p>기획부터 개발까지 단독 진행해 App Store에 출시한 개인 프로젝트. 유저 피드백을 반영하며 꾸준히 업데이트 중입니다.</p>
       <code>Swift · SwiftUI · Firebase</code>
     </td>
