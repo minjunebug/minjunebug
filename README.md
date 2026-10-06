@@ -51,7 +51,7 @@
 
 <br>
 
-## 📊 Portfoli
+## 📊 Portfolio
   - Portfolio Link: www.parkminjun.com
 
 
